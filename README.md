@@ -10,7 +10,7 @@ The page for this project can be found at https://tbusch74.github.io/5-Work-Day-
 
 See below for a screenshot of the finished webpage.
 
-![Work Day Scheduler screenshot](assets/images/screenshot.JPG)
+![Work Day Scheduler screenshot](assets/images/Screenshot.JPG)
 
 ## Credits
 
